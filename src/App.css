@@ -1,0 +1,13 @@
+.grid-color {
+  background: linear-gradient(45deg, #632EE3, #9F62F2);
+  color: white;
+
+}
+
+.link{
+  font-size: 16px;
+  font-weight: 400;
+  color: gray;
+  text-decoration: none;
+
+}
